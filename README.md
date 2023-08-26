@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Majed,</h1>
 <h3 align="center">a full-time full-stack web developer dedicated to continuous web development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majedalshehri1&label=Profile%20views&color=0e75b6&style=flat" alt="majedalshehri1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=majedalshehri1&label=Profile%20views&color=0e75b6&style=flat" alt="majedalshehri1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majedalshehri1" alt="majedalshehri1" /></a> </p>
 
