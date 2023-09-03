@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://gifdb.com/images/high/black-cat-typing-fast-z5sz7os422wrp0pt.webp"  />
+</div>
+
 ### <div align="center">I'm Majed, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
