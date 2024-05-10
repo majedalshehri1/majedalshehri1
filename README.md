@@ -6,7 +6,14 @@
 
 ###
 
-<p align="left">- Full time Software Engineering student 💻<br>- Interested in Artificial Intelligence 🤖<br>- I'm currently learning TypeScript & Next.js  ➡️⚡️<br>- Going into Backend development soon 🔜</p>
+<p align="left">
+<ul>
+  <li>Full time Software Engineering student 💻</li>
+  <li>Interested in Artificial Intelligence 🤖</li>
+  <li>I'm currently learning TypeScript & Next.js  ➡️⚡️</li>
+  <li>Going into Backend development soon 🔜</li>
+</ul>
+</p>
 
 ###
 
