@@ -11,7 +11,7 @@
   <li>Full time Software Engineering student 💻</li>
   <li>Interested in Artificial Intelligence 🤖</li>
   <li>I'm currently learning TypeScript & Next.js  ➡️⚡️</li>
-  <li>Going into Backend development soon 🔜</li>
+  <li>Focus on backend development soon 🔜</li>
 </ul>
 </p>
 
