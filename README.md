@@ -2,3 +2,5 @@
 
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxjZHk5c3BqOGMxN2V2aTN1a3Nsd3poMHp6eXMyZjBuYTFxeWttZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mzfhrmyBaghW9tDhcm/giphy.gif)
 
+## Tools, Frameworks And Technologys 🔧
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,java,jquery,react,svelte,vite,nodejs,express,firebase,mysql,git,github,postman,figma&perline=5)](https://skillicons.dev)
