@@ -4,3 +4,5 @@
 
 ## Tools, Frameworks And Technologys 🔧
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,java,jquery,react,svelte,vite,vercel,nodejs,express,firebase,mongodb,mysql,git,github,postman,figma&perline=5)](https://skillicons.dev)
+
+[![](https://visitcount.itsvg.in/api?id=majedalshehri1&label=&pretty=false)](https://visitcount.itsvg.in)
