@@ -6,4 +6,9 @@
 ## Tools, Frameworks And Technologys 🔧
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,java,jquery,react,svelte,vite,vercel,nodejs,express,firebase,mongodb,mysql,git,github,postman,figma&perline=5)](https://skillicons.dev)
 
+## Activity
+![majedalshehri1's Stats](https://github-readme-stats.vercel.app/api?username=majedalshehri1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![majedalshehri1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=majedalshehri1&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
 [![](https://visitcount.itsvg.in/api?id=majedalshehri1&label=&pretty=false)](https://visitcount.itsvg.in)
