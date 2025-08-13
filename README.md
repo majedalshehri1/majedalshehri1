@@ -4,6 +4,6 @@
 </div>
 
 ## Tools, Frameworks And Technologys 🔧
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,javascript,ts,java,jquery,react,svelte,vite,vercel,nodejs,express,firebase,mongodb,mysql,git,github,postman,figma&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,javascript,ts,java,jquery,react,svelte,vite,vercel,nodejs,express,firebase,mongodb,mysql,postgres,spring,git,github,postman,figma&perline=6)](https://skillicons.dev)
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=majedalshehri1.majedalshehri1&"  />
